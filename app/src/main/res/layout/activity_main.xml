@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bg"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:textSize="29sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_Ular"
+            android:layout_width="104dp"
+            android:layout_height="77dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/anaconda"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_Ikan"
+            android:layout_width="98dp"
+            android:layout_height="76dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/arwana"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageButton
+            android:id="@+id/btn_buka_ras_Burung"
+            android:layout_width="87dp"
+            android:layout_height="76dp"
+            android:layout_margin="8dp"
+            android:layout_weight="1"
+            android:padding="16dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/penguin"
+            tools:ignore="SpeakableTextPresentCheck" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:text="@string/pilih_gambar"
+        android:textStyle="italic" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buka_gambar"/>
+
+    <ImageButton
+        android:id="@+id/btn_buka_profile"
+        android:layout_width="270dp"
+        android:layout_height="280dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:padding="16dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/aryakusuma"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+</LinearLayout>
+
+
+

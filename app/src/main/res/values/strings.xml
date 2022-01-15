@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Ular, Ikan &amp; Burung</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="buka_gambar" translatable="false">(Tekan Gambar untuk melihat biodata pembuat</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="ular">Ular</string>
+    <string name="ikan">Ikan</string>
+    <string name="burung">Burung</string>
+    <string name="ular_list_title">Daftar Ras Ular</string>
+    <string name="ikan_list_title">Daftar Ras Ikan</string>
+    <string name="burung_list_title">Daftar Ras Burung</string>
+    <string name="prodi">Prodi : Teknik Informatika</string>
+    <string name="nama">Nama : Arya Kusuma</string>
+    <string name="kelas">Kelas : TID</string>
+    <string name="nim">NIM : 200602099</string>
+    <string name="hobi">Hobi : Main game dan basket</string>
+    // Data Ular
+    <string name="anaconda_nama">Anaconda</string>
+    <string name="anaconda_asal">Amerika Serikat</string>
+    <string name="anaconda_deskripsi">Anakonda adalah golongan ular besar yang endemik di perairan tawar dan sungai-sungai di daerah tropis Amerika Selatan.</string>
+    <string name="beludak_nama">Beludak</string>
+    <string name="beludak_asal">Hampir diseluruh Negara</string>
+    <string name="beludak_deskripsi">Beludak adalah sekelompok ular berbisa, familia Viperidae.</string>
+    <string name="cobra_nama">Cobra</string>
+    <string name="cobra_asal">Afrika dan Asia</string>
+    <string name="cobra_deskripsi">Ular sendok atau kobra adalah sebutan khusus untuk semua jenis ular berbisa yang memiliki kemampuan memipihkan lehernya hingga membentuk seperti sendok atau tudung.</string>
+    <string name="mamba_nama">Mamba</string>
+    <string name="mamba_asal">Afrika</string>
+    <string name="mamba_deskripsi">Mamba adalah sebutan umum untuk empat spesies ular berbisa mematikan yang semuanya diklasifikasikan sebagai genus Dendroaspis.</string>
+    <string name="sanca_nama">Sanca</string>
+    <string name="sanca_asal">Afrika, Asia dan Australia</string>
+    <string name="sanca_deskripsi">Sanca adalah sebutan umum untuk semua jenis ular pembelit yang diklasifikasikan sebagai familia Pythonidae.</string>
+    <string name="taipan_nama">Taipan</string>
+    <string name="taipan_asal">Australia dan Papua</string>
+    <string name="taipan_deskripsi">Taipan adalah sebutan untuk tiga spesies ular Elapidae mematikan yang semuanya diklasifikasikan sebagai genus Oxyuranus.</string>
+    // Data Ikan
+    <string name="arwana_nama">Arwana Asia</string>
+    <string name="arwana_asal">Asia</string>
+    <string name="arwana_deskripsi">Arwana Asia, atau Siluk Merah adalah salah satu spesies ikan air tawar dari Asia Tenggara.</string>
+    <string name="cupang_nama">Cupang</string>
+    <string name="cupang_asal">Indonesia</string>
+    <string name="cupang_deskripsi">Betta splendens selain sebagai cupang hias, betta splendes merupakan jenis adu terutama jenis yang lama.</string>
+    <string name="ikanmas_nama">Ikan Mas</string>
+    <string name="ikanmas_asal">Indonesia</string>
+    <string name="ikanmas_deskripsi">Ikan mas atau Ikan karper adalah ikan air tawar yang memiliki nilai ekonomis penting dan sudah tersebar luas di Indonesia.</string>
+    <string name="gupi_nama">Gupi</string>
+    <string name="gupi_asal">Amerika Utara</string>
+    <string name="gupi_deskripsi">Gupi, ikan seribu, ikan cere, atau suwadakar, adalah salah satu spesies ikan hias air tawar yang paling populer di dunia.</string>
+    <string name="hiu_nama">Hiu Paus</string>
+    <string name="hiu_asal">Semua Samudra</string>
+    <string name="hiu_deskripsi">Hiu paus, Rhincodon typus, adalah hiu pemakan plankton yang merupakan spesies ikan terbesar.</string>
+    <string name="nemo_nama">Nemo</string>
+    <string name="nemo_asal">Amerika Serikat</string>
+    <string name="nemo_deskripsi">Ikan badut Ocellaris adalah ikan aquarium populer. Ikan badut ini dapat dikenali dengan warna jingganya.</string>
+    // Data Burung
+    <string name="hantu_nama">Burung Hantu</string>
+    <string name="hantu_asal">Lebih banyak di Greenland</string>
+    <string name="hantu_deskripsi">Burung adalah anggota kelompok hewan bertulang belakang yang memiliki bulu dan sayap.</string>
+    <string name="kolibri_nama">Kolibri</string>
+    <string name="kolibri_asal">Amerika Utara dan Selatan</string>
+    <string name="kolibri_deskripsi">Kolibri adalah burung kecil dengan panjang 6,4 cm dan berwarna cerah yang sebagian besar hidup di Amerika Utara dan Amerika Selatan.</string>
+    <string name="kuntul_nama">Burung Kuntul</string>
+    <string name="kuntul_asal">Asia</string>
+    <string name="kuntul_deskripsi">Kuntul adalah sebutan untuk burung dari keluarga Ardeidae.</string>
+    <string name="merpati_nama">Merpati</string>
+    <string name="merpati_asal">Banyak diberbagai kota</string>
+    <string name="merpati_deskripsi">Merpati dan dara termasuk dalam famili Columbidae atau burung berparuh merpati dari ordo Columbiformes, yang mencakup sekitar 300 spesies burung kerabat pekicau.</string>
+    <string name="penguin_nama">Penguin</string>
+    <string name="penguin_asal">Kutub Selatan</string>
+    <string name="penguin_deskripsi">Penguin atau pinguin adalah hewan akuatik jenis burung yang tidak bisa terbang dan secara umum hidup di belahan Bumi selatan.</string>
+    <string name="potoo_nama">Potoo</string>
+    <string name="potoo_asal">Amerika Tengah dan Selatan</string>
+    <string name="potoo_deskripsi">Diterjemahkan dari bahasa Inggris-Potoos adalah sekelompok burung Caprimulgiformes yang terkait dengan nightjars dan frogmouths.</string>
+
+</resources>
